@@ -8,11 +8,11 @@ As a way to give back please consider subscribing to my [YouTube channel](https:
 
 Game.unity is the main scene and few examples created while running in the Unity3d editor:
 
-<img src="https://github.com/dilmerv/VRDraw/blob/master/docs/images/demo_1.gif" width="300">
+<img src="https://github.com/dilmerv/VRWeaponController/blob/master/docs/images/demo_1.gif" width="300">
 
-<img src="https://github.com/dilmerv/VRDraw/blob/master/docs/images/demo_2.gif" width="300">
+<img src="https://github.com/dilmerv/VRWeaponController/blob/master/docs/images/demo_2.gif" width="300">
 
-<img src="https://github.com/dilmerv/VRDraw/blob/master/docs/images/demo_3.gif" width="300">
+<img src="https://github.com/dilmerv/VRWeaponController/blob/master/docs/images/demo_3.gif" width="300">
 
 ## VR Draw testing in the editor
 
