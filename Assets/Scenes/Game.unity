@@ -25143,31 +25143,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: LargeWeaponController
       objectReference: {fileID: 0}
+    - target: {fileID: 976658945694731350, guid: 6b6fd7a3659a9409eb726fda36441211,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 976658945694731351, guid: 6b6fd7a3659a9409eb726fda36441211,
         type: 3}
       propertyPath: bulletSound
       value: 
       objectReference: {fileID: 834393391}
-    - target: {fileID: 976658945694731351, guid: 6b6fd7a3659a9409eb726fda36441211,
-        type: 3}
-      propertyPath: bulletInitialPosition.y
-      value: 0.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 976658945694731351, guid: 6b6fd7a3659a9409eb726fda36441211,
-        type: 3}
-      propertyPath: bulletInitialPosition.z
-      value: 0.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 976658945694731351, guid: 6b6fd7a3659a9409eb726fda36441211,
-        type: 3}
-      propertyPath: force
-      value: 500
-      objectReference: {fileID: 0}
-    - target: {fileID: 976658945694731351, guid: 6b6fd7a3659a9409eb726fda36441211,
-        type: 3}
-      propertyPath: bulletFrequency
-      value: 0.1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6b6fd7a3659a9409eb726fda36441211, type: 3}
 --- !u!1001 &3357347534009024811
@@ -25182,31 +25167,15 @@ PrefabInstance:
       propertyPath: bulletSound
       value: 
       objectReference: {fileID: 834393391}
-    - target: {fileID: 3423061393599236120, guid: 36b4385ebf67a4956b37cb12e9f73a82,
-        type: 3}
-      propertyPath: bulletInitialPosition.y
-      value: 0.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3423061393599236120, guid: 36b4385ebf67a4956b37cb12e9f73a82,
-        type: 3}
-      propertyPath: bulletInitialPosition.z
-      value: 0.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 3423061393599236120, guid: 36b4385ebf67a4956b37cb12e9f73a82,
-        type: 3}
-      propertyPath: force
-      value: 500
-      objectReference: {fileID: 0}
-    - target: {fileID: 3423061393599236120, guid: 36b4385ebf67a4956b37cb12e9f73a82,
-        type: 3}
-      propertyPath: bulletPrefab
-      value: 
-      objectReference: {fileID: 2870339233956844842, guid: e85df6536644e45f4bcef682ae4a67db,
-        type: 3}
     - target: {fileID: 3423061393599236121, guid: 36b4385ebf67a4956b37cb12e9f73a82,
         type: 3}
       propertyPath: m_Name
       value: SmallWeaponController
+      objectReference: {fileID: 0}
+    - target: {fileID: 3423061393599236121, guid: 36b4385ebf67a4956b37cb12e9f73a82,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3423061393599236123, guid: 36b4385ebf67a4956b37cb12e9f73a82,
         type: 3}
@@ -25338,26 +25307,15 @@ PrefabInstance:
       propertyPath: m_Name
       value: MediumWeaponController
       objectReference: {fileID: 0}
+    - target: {fileID: 3733828551766266470, guid: 44b89152e0ff84ae89a5c2b7785e0433,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3733828551766266471, guid: 44b89152e0ff84ae89a5c2b7785e0433,
         type: 3}
       propertyPath: bulletSound
       value: 
       objectReference: {fileID: 834393391}
-    - target: {fileID: 3733828551766266471, guid: 44b89152e0ff84ae89a5c2b7785e0433,
-        type: 3}
-      propertyPath: bulletInitialPosition.z
-      value: 0.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 3733828551766266471, guid: 44b89152e0ff84ae89a5c2b7785e0433,
-        type: 3}
-      propertyPath: force
-      value: 500
-      objectReference: {fileID: 0}
-    - target: {fileID: 3733828551766266471, guid: 44b89152e0ff84ae89a5c2b7785e0433,
-        type: 3}
-      propertyPath: bulletPrefab
-      value: 
-      objectReference: {fileID: 2870339233956844842, guid: e85df6536644e45f4bcef682ae4a67db,
-        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 44b89152e0ff84ae89a5c2b7785e0433, type: 3}

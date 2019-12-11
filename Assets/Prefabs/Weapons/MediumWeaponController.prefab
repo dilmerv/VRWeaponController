@@ -44,10 +44,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a166984f1491a44e48a5efecd15c2941, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 909815523752258445, guid: 3b5e4c9cd3ff04e5dba5935d43337b18,
+  bulletPrefab: {fileID: 2870339233956844842, guid: e85df6536644e45f4bcef682ae4a67db,
     type: 3}
   weapon: {fileID: 8381334961753921482}
-  force: 1000
+  force: 500
   bulletForceMode: 0
   bulletInitialPosition: {x: 0, y: 0.1, z: 0.4}
   bulletAliveFor: 1

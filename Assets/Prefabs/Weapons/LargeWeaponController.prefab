@@ -24,7 +24,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 976658945694731350}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -47,11 +47,11 @@ MonoBehaviour:
   bulletPrefab: {fileID: 2870339233956844842, guid: e85df6536644e45f4bcef682ae4a67db,
     type: 3}
   weapon: {fileID: 975419305169919537}
-  force: 1500
+  force: 500
   bulletForceMode: 0
-  bulletInitialPosition: {x: 0, y: 0.1544, z: 0.5648003}
+  bulletInitialPosition: {x: 0, y: 0.1, z: 0.4}
   bulletAliveFor: 1
-  bulletFrequency: 0.2
+  bulletFrequency: 0.1
   bulletSound: {fileID: 0}
 --- !u!1001 &976658945420391935
 PrefabInstance:
