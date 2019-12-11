@@ -15,7 +15,7 @@ public class WeaponControllerManager : MonoBehaviour
 
     void Update()
     {   
-        if(OVRInput.GetDown(OVRInput.RawButton.A) || Input.GetKeyDown(KeyCode.RightArrow))
+        if(OVRInput.GetDown(OVRInput.RawButton.X) || Input.GetKeyDown(KeyCode.X))
         {
             // Selecting Next Gun
             SelectNextWeapon();
